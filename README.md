@@ -28,6 +28,13 @@ The dashboard offers a comprehensive view of profit trends, product and segment 
 - `raw_data.xlsx` — Original raw sales and financial data used for analysis.  
 - `profit_and_performance_dashboard.pbix` — Power BI project file containing all data models, measures, and report visuals.  
 - `dashboard_preview.PNG` — Image snapshot capturing the main dashboard layout and key performance indicators.
+## Project Files
+
+The following files are included in this project for demonstration and portfolio purposes:
+
+- <a href="https://github.com/Arianne-R/road-accident-dashboard/blob/main/road_accident_raw_data.xlsb">**raw_data.xlsx**</a> – Contains the original raw sales and financial data used for analysis. 
+- <a href="https://github.com/Arianne-R/road-accident-dashboard/blob/main/road_accident_dashboard.xlsb">**profit_and_performance_dashboard.pbix**</a> – Power BI project file containing all data models, measures, and report visuals.
+- <a href="https://github.com/Arianne-R/road-accident-dashboard/blob/main/dashboard_preview.png">**dashboard_preview.png**</a> – Image snapshot capturing the main dashboard layout and key performance indicators.
 
 ---
 
