@@ -27,9 +27,9 @@ The dashboard offers a comprehensive view of profit trends, product and segment 
 
 The following files are included in this project for demonstration and portfolio purposes:
 
-- <a href="https://github.com/Arianne-R/profit-and-performance-dashboard/blob/main/raw_data.xlsx">**raw_data.xlsx**</a> – Contains the original raw sales and financial data used for analysis. 
-- <a href="https://github.com/Arianne-R/profit-and-performance-dashboard/blob/main/profit_and_performance_dashboard.pbix">**profit_and_performance_dashboard.pbix**</a> – Power BI project file containing all data models, measures, and report visuals.
-- <a href="https://github.com/Arianne-R/profit-and-performance-dashboard/blob/main/dashboard_preview.png">**dashboard_preview.png**</a> – Image snapshot capturing the main dashboard layout and key performance indicators.
+- <a href="https://github.com/Arianne-R/profit-and-performance-dashboard/blob/main/raw_data.xlsx">**raw_data.xlsx**</a> – Contains the unprocessed sales and financial data used for analysis and transformation in Power BI.
+- <a href="https://github.com/Arianne-R/profit-and-performance-dashboard/blob/main/profit_and_performance_dashboard.pbix">**profit_and_performance_dashboard.pbix**</a> – The main Power BI file containing all data transformations, DAX measures, data modeling, and the final interactive dashboard layout.
+- <a href="https://github.com/Arianne-R/profit-and-performance-dashboard/blob/main/dashboard_preview.png">**dashboard_preview.png**</a> – A visual snapshot of the completed dashboard showcasing key metrics and layout for quick reference or portfolio display.
 
 ---
 
